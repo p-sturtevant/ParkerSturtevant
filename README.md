@@ -8,7 +8,7 @@ I am a full stack engineer with extensive experience in JavaScript and strong fo
 <a href="www.linkedin.com/in/parkersturtevant">
 <img alt="linkedin" title="Follow Me On LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?color=white&labelColor=0077b5&logo=linkedin-plain" /></a>
 <a href="https://github.com/p-sturtevant?tab=followers" />
-<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/github-Follow-green?logo=github/></a>
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/github-Follow-green?logo=github"/></a>
 </p>
 
 ---
